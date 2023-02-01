@@ -1,0 +1,5 @@
+---
+permalink: registration
+---
+
+TODO

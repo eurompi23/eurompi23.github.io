@@ -1,0 +1,5 @@
+Local development
+
+Run bundler: bundle install
+
+Start the webserver: bundle exec jekyll s
