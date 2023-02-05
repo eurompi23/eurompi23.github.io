@@ -1,0 +1,45 @@
+<header class="site-header">
+    <div class="row">
+
+        <!--conference info-->
+        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-5 col-xl-3 offset-xl-1" style="padding-right:0px;padding-left:0px">
+
+            <div class="jumbotron">
+                <img class="img-fluid" src="./assets/logo_no_frame.png">
+                <br>
+                <br>
+                <br>
+                <h3 class="text-center mt-0">September 11-13, 2023</h3>
+                <h2 class="text-center mb-0">Bristol, UK</h2>
+            </div>
+
+        </div>     
+
+        <!--slide show-->
+        <div class="col-xs-6 col-sm-6 col-md-6 col-lg-7 col-xl-7" style="padding-right:0px;padding-left:0px">
+                
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+                        <div class="carousel-inner" role="listbox">
+                            
+                            {% for slide in site.data.conference.slideshow %}
+                            {% if page.slide_id and page.slide_id  == slide.id %}
+                            <div class="carousel-item active">
+                            {% else %}
+                            <div class="carousel-item">
+                            {% endif %}
+                                <!--<img class="img-fluid" src="{{ site.baseurl }}{{ slide.image_path }}" alt="{{ slide.description }}">-->
+                                <img class="img-fluid" src="https://en.wikipedia.org/wiki/Bristol#/media/File:Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol,_England.jpg" alt="Bristol - Suspension bridge and Observatory - Chris Lathom-Sharp - See licensing https://commons.wikimedia.org/wiki/File:Clifton_Suspension_Bridge_and_the_Observatory_in_Bristol,_England.jpg">
+                                <div class="carousel-caption d-none d-md-block text-muted">
+                                    <p class="align-bottom"> {{ slide.description }}, Photo courtesy {{slide.photographer_name}}.
+                                    </p>
+                                </div>
+                            </div>
+                            {% endfor %}
+
+                        </div>
+                </div>
+        </div>
+    </div>
+
+</header>
