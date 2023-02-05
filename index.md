@@ -37,4 +37,5 @@ The registration link will be available here in future.
 ## Contact
 
 For queries relating to the conference, please contact julien.jaeger at cea.fr or hugo.taboada at cea.fr
+
 For queries concerning research papers (submission, deadlines, publishing, etc.) please contact: emmanuelle.saillard at inria.fr or guillaume.mercier at inria.fr
