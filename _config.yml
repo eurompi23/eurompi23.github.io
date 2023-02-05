@@ -25,7 +25,7 @@ url                      : "https://eurompi23.github.io"
 baseurl                  : # "/_pages/2020/index"
 repository               : "eurompi23/eurompi23.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # "/assets/logo.png"
+logo                     : "/assets/logo_no_frame.png"
 masthead_title           : " "
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
