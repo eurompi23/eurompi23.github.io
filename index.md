@@ -2,6 +2,7 @@
 permalink: index
 ---
 
+![Banner](/assets/banner-B.png){:height="auto" width="100%"} 
 <!-- ![Banner](/assets/banner_hamburg.jpg){:height="auto" width="100%"} -->
 
 # Welcome to EuroMPI'23 
