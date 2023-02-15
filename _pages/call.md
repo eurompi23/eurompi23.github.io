@@ -2,6 +2,9 @@
 permalink: call
 ---
 
+![Banner](/assets/banner-B.png){:height="auto" width="100%"}
+
+
 # Call for Paper
 
 EuroMPI 2023 will continue to focus on advancing the ubiquitous Message Passing Interface (MPI) model and specification of parallel programming. It will also encompass extensions and alternative interfaces for high-performance heterogeneous and hybrid systems, benchmarks, tools, parallel I/O, fault tolerance, and parallel applications using MPI and other interfaces.  
@@ -32,7 +35,8 @@ We invite high-quality, full paper submissions on all topics related to message-
 - Applications using message passing, in particular in computational science and scientific computing.
 - Parallel algorithms in the message-passing paradigm.
 - Interactions between the message-passing library and runtime systems. 
-Papers will be reviewed for quality, originality, clarity, correctness, technical strength, and relevance to the topics of the meeting. Each paper will receive at least three reviews from members of the program committee. Reviews are blind (but not double-blind); the names of the authors will be seen by the program committee.
+
+Papers will be reviewed for quality, originality, clarity, correctness, technical strength, and relevance to the topics of the meeting. Each paper will receive at least three reviews from members of the program committee. Reviews are <b>blind</b> (but not double-blind); the names of the authors will be seen by the program committee.
 
 Among the papers selected for presentation, a few of the best papers will, as has been the tradition for the last couple of years, be selected by the program committee and recommended for publication in a EuroMPI 2023 Special Issue of a Journal, more details about the journal special issue coming here soon. These papers will go through a separate round of reviews, and are intended as extended, more polished archival versions of the conference versions.
 

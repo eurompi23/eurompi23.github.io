@@ -2,6 +2,9 @@
 permalink: organization
 ---
 
+![Banner](/assets/banner-B.png){:height="auto" width="100%"}
+
+
 ## General Chairs & Program Chairs
 
 Julien Jaeger, French Alternative Energies and Atomic Energy Commission (CEA)
