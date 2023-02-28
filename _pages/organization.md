@@ -10,7 +10,7 @@ permalink: organization
 <div style="display: flex; flex-direction:row;">
 
 <div style="display: flex; flex-direction:row;">
-<div><img src="assets/silhouette.png" alt="Julien" width="120" height="120" /></div>
+<div><img src="assets/julien.jpg" alt="Julien" width="110" height="110" /></div>
 <div style="margin-left: 30px;"> <p><b>Julien Jaeger</b></p> <p>CEA</p> </div> 
 </div> 
 
@@ -27,12 +27,12 @@ permalink: organization
 <div style="display: flex; flex-direction:row;">
 
 <div style="display: flex; flex-direction:row;">
-<div><img src="assets/silhouette.png" alt="Julien" width="120" height="120" /></div>
+<div><img src="assets/julien.jpg" alt="Julien" width="120" height="120" /></div>
 <div style="margin-left: 30px;"> <p><b>Julien Jaeger</b></p> <p>CEA</p> </div> 
 </div> 
 
 <div style="display: flex; flex-direction:row;"> 
-<div style="margin-left: 30px;"><img src="assets/Emma.png" alt="Emma" width="120" height="120" /></div>
+<div style="margin-left: 30px;"><img src="assets/Emma.jpeg" alt="Emma" width="120" height="120" /></div>
 <div style="margin-left: 30px;"><p><b>Emmanuelle Saillard</b></p> <p>Inria</p></div>
 </div>
 
@@ -50,7 +50,7 @@ permalink: organization
 </div> 
 
 <div style="display: flex; flex-direction:row;"> 
-<div style="margin-left: 30px;"><img src="assets/Emma.png" alt="Emma" width="120" height="120" /></div>
+<div style="margin-left: 30px;"><img src="assets/Emma.jpeg" alt="Emma" width="120" height="120" /></div>
 <div style="margin-left: 30px;"><p><b>Emmanuelle Saillard</b></p> <p>Inria</p></div>
 </div>
 
