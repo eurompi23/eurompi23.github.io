@@ -8,8 +8,8 @@ main:
     - title: "Home"
       url: /index
 
-    - title: "Program"
-      url: program
+      #    - title: "Program"
+      # url: program
 
     - title: "Call for Papers"
       url: call
@@ -20,8 +20,8 @@ main:
     - title: "Organizers"
       url: organization
 
-    - title: "Venue"
-      url: venue
+      #- title: "Venue"
+      #url: venue
 
-    - title: "Registration"
-      url: registration
+      #- title: "Registration"
+      #url: registration

@@ -25,8 +25,8 @@ The registration link will be available here in future.
 
 <!-- - Submission deadline: 21st February 2022 AoE -->
 <!-- - Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE -->
-- Abstract deadline: 15th April 2023 AoE
-- Submission deadline: 29th April 2023 AoE 
+- Abstract deadline: <b>15th April 2023 AoE</b>
+- Submission deadline: <b>29th April 2023 AoE</b> 
 - Paper notification: 19th June 2023 AoE 
 - Short papers and posters submission deadline: 1st July 2023 AoE
 - Short papers and posters notification: 10th July 2023 AoE

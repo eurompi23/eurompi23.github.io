@@ -7,38 +7,84 @@ permalink: organization
 
 ## General Chairs & Program Chairs
 
-Julien Jaeger, French Alternative Energies and Atomic Energy Commission (CEA)
+<div style="display: flex; flex-direction:row;">
 
-Hugo Taboada, French Alternative Energies and Atomic Energy Commission (CEA)
+<div style="display: flex; flex-direction:row;">
+<div><img src="assets/silhouette.png" alt="Julien" width="120" height="120" /></div>
+<div style="margin-left: 30px;"> <p><b>Julien Jaeger</b></p> <p>CEA</p> </div> 
+</div> 
+
+<div style="display: flex; flex-direction:row;"> 
+<div style="margin-left: 30px;"><img src="assets/silhouette.png" alt="Hugo" width="120" height="120" /></div>
+<div style="margin-left: 30px;"><p><b>Hugo Taboada</b></p> <p>CEA</p></div>
+</div>
+
+</div>
 
 
-## Publicity Chairs
+## Publicity and Web Chairs
 
-Emmanuelle Saillard, Inria
+<div style="display: flex; flex-direction:row;">
 
-Julien Jaeger, French Alternative Energies and Atomic Energy Commission (CEA)
+<div style="display: flex; flex-direction:row;">
+<div><img src="assets/silhouette.png" alt="Julien" width="120" height="120" /></div>
+<div style="margin-left: 30px;"> <p><b>Julien Jaeger</b></p> <p>CEA</p> </div> 
+</div> 
+
+<div style="display: flex; flex-direction:row;"> 
+<div style="margin-left: 30px;"><img src="assets/Emma.png" alt="Emma" width="120" height="120" /></div>
+<div style="margin-left: 30px;"><p><b>Emmanuelle Saillard</b></p> <p>Inria</p></div>
+</div>
+
+</div>
 
 
 ## Publisher Chairs
 
-Guillaume Mercier, Bordeaux INP
 
-Emmanuelle Saillard, Inria
+<div style="display: flex; flex-direction:row;">
+
+<div style="display: flex; flex-direction:row;">
+<div><img src="assets/silhouette.png" alt="Guillaume" width="120" height="120" /></div>
+<div style="margin-left: 30px;"> <p><b>Guillaume Mercier</b></p> <p>Bordeaux INP</p> </div> 
+</div> 
+
+<div style="display: flex; flex-direction:row;"> 
+<div style="margin-left: 30px;"><img src="assets/Emma.png" alt="Emma" width="120" height="120" /></div>
+<div style="margin-left: 30px;"><p><b>Emmanuelle Saillard</b></p> <p>Inria</p></div>
+</div>
+
+</div>
 
 ## Poster Chair
 
-Jean-Baptiste Besnard, Paratools
+<div style="display: flex; flex-direction:row;">
+<div><img src="assets/silhouette.png" alt="JB" width="120" height="120" /></div> 
+<div style="margin-left: 30px;"> 
+<p><b>Jean-Baptiste Besnard</b></p> <p>Paratools</p>
+</div> 
+</div> 
 
 ## Finance and Registration Chair
 
-<img src="assets/BrianSmith.png" alt="Brian" width="120" height="120" />
-Brian Smith, Cornelis Networks
+<div style="display: flex; flex-direction:row;">
+<div><img src="assets/BrianSmith.png" alt="Brian" width="120" height="120" /></div> 
+<div style="margin-left: 30px;"> 
+<p><b>Brian Smith</b></p> <p>Cornelis Networks</p>
+</div> 
+</div> 
 
+## Local Chair
 
+<div style="display: flex; flex-direction:row;">
+<div><img src="assets/silhouette.png" alt="Simon" width="120" height="120" /></div> 
+<div style="margin-left: 30px;"> 
+<p><b>Simon McIntosh-Smith</b></p> <p>University of Bristol</p>
+</div> 
+</div> 
 
 ## Program Committee Members
 
-| Name                    | Affiliation                                     |
-| ----------------------: | ----------------------------------------------- |
-| XXXX             |  XXXX 									    |
-| XXXX      |  XXXX                                            |
+
+| XXXX             |  XXXX 		    |
+| XXXX      |  XXXX                         |
