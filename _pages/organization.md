@@ -59,7 +59,7 @@ permalink: organization
 ## Poster Chair
 
 <div style="display: flex; flex-direction:row;">
-<div><img src="assets/silhouette.png" alt="JB" width="120" height="120" /></div> 
+<div><img src="assets/jb.png" alt="JB" width="120" height="120" /></div> 
 <div style="margin-left: 30px;"> 
 <p><b>Jean-Baptiste Besnard</b></p> <p>Paratools</p>
 </div> 
