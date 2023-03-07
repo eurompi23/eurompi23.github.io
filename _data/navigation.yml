@@ -14,6 +14,9 @@ main:
     - title: "Call for Papers"
       url: call
 
+    - title: "Call for Posters and short Papers"
+      url: posters
+
 #    - title: "Sponsors"
 #      url: /2020/sponsors
 
@@ -25,3 +28,6 @@ main:
 
       #- title: "Registration"
       #url: registration
+
+    - title: "Archive"
+      url: archive
