@@ -50,9 +50,10 @@ permalink: organization
 </div>
 
 
-<div id="divcard" class="card">
+<div id="divcard">
+<div class="card">
       <div class="card-header text-white bg-inverse">
-         <i class="mr"></i><strong>Program Committee Members</strong>
+         <i class="mr"></i><strong>Technical Program Committee (Paper)</strong>
       </div>
          <div class="card-block bg-faded committee" style="padding: 5px">
           <p>name</p>
@@ -71,5 +72,21 @@ permalink: organization
           <p>name</p>
           <p>name</p>
       </div>
+      </div>
+
+<div class="card">
+      <div class="card-header text-white bg-inverse">
+         <i class="mr"></i><strong>Technical Program Committee (Poster)</strong>
+      </div>
+         <div class="card-block bg-faded committee" style="padding: 5px">
+          <p>name</p>
+          <p>name</p>
+          <p>name</p>
+          <p>name</p>
+          <p>name</p>
+          <p>name</p>
+      </div>
+      </div>
+
 </div>
 
