@@ -49,7 +49,7 @@ Tools, Models and Monitoring:
 <h1>Important Dates</h1>
 <ul>
 <li> Short papers and posters submission deadline: <b>1st July 2023 AoE</b></li>
-<li> Short papers and posters notification: <b>10th July 2023 AoE</b></li>
+<li> Short papers and posters notification: 10th July 2023 AoE</li>
 <li> Camera-ready version: TBD</li> 
 </ul>
 
