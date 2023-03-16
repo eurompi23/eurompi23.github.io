@@ -15,7 +15,7 @@ permalink: index
 
 
   <p>
-  In 2023, EuroMPI Conference will take place in Bristol on September 11-13, 2023. The conference will be co-located with the 19th International Workshop on OpenMP (IWOMP 2023) that will be held on September 13-15,2023. The MPI Forum will also meet following the EuroMPI Conference. 
+  In 2023, EuroMPI Conference will take place in Bristol on September 11-13, 2023. The conference will be co-located with the <a href="https://www.iwomp.org">19th International Workshop on OpenMP (IWOMP 2023)</a> that will be held on September 13-15,2023. The MPI Forum will also meet following the EuroMPI Conference. 
   </p>
 
   <p>

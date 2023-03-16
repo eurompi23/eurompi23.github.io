@@ -51,26 +51,48 @@ permalink: organization
 
 
 <div id="divcard">
-<div class="card">
+<div class="card text-justify conference-text">
       <div class="card-header text-white bg-inverse">
          <i class="mr"></i><strong>Technical Program Committee (Paper)</strong>
       </div>
          <div class="card-block bg-faded committee" style="padding: 5px">
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
+          <p>Bland Wesley, Metai, USA</p>
+          <p>Subramoni Hari, Ohio State University, USA</p>
+          <p>Hermanns Marc-André, RWTH, Germany</p>
+          <p>Raffenetti Ken, Argonne National Laboratory, USA</p>
+          <p>Gropp William, University of Illinois at Urbana-Champaign, USA</p>
+          <p>Skjellum Anthony, University of Tennessee, USA</p>
+          <p>Schulz Martin, TUM, Germany</p>
+          <p>Blaas-Schenner Claudia, Vienna University of Technology, Austria</p>
+          <p>Pritchard Howard, Los Alamos National Laboratory, USA</p>
+          <p>Squyres Jeff, Cisco, USA</p>
+          <p>Grant Ryan E., Queens University, Canada</p>
+          <p>Markidis Stefano, KTH Royal Institute of Technology, Sweden</p>
+          <p>Dinan Jim, Nvidia, USA</p>
+          <p>Sato Kento, RIKEN R-CCS, Japan</p>
+          <p>Garzaran Maria, Intel, USA</p>
+          <p>Denis Alexandre, Inria, France</p>
+          <p>Bouteiller Aurélien, University of Tennessee Knoxville, USA</p>
+          <p>Träff Jesper Larsson, Vienna University of Technology, Austria</p>
+          <p>Thakur Rajeev, Argonne National Laboratory, USA</p>
+          <p>Gabriel Edgar, AMD, USA</p>
+          <p>Lemarinier Pierre, Atos, France</p>
+          <p>Silva Machado Rui Màrio, Fraunhofer, Germany</p>
+          <p>Rabenseifner Rolf, HLRS, Germany</p>
+          <p>Bangalore Purushotham, University of Alabama, USA</p>
+          <p>Shende Sameer, Paratools, USA</p>
+          <p>Pérache Marc, CEA, France</p>
+          <p>Casas Marc, BSC, Spain</p>
+          <p>Capra Antoine, Atos, France</p>
+   	  <!-- <p>Koziol Quincey, Amazon, USA</p>
+          <p>Leon Edgar, Lawrence Livermore National Laboratory, USA</p>
+          <p>Hammond Jeff, XXX, XXX</p>
+          <p>Protze Joachim, RWTH, Germany</p>
+          <p>Dosanj Matthew, SNL, XXX</p>
+          <p>Schonberg Whitney, SNL, XXX</p>
+          <p>Castel Adrien, Universitat Jaume 1, XXX</p>
+          <p>Schuchart Joseph, UTK, XXX</p>
+          <p>Schneider Timo, ETH Zurich, Switzerland</p> -->
       </div>
       </div>
 
@@ -79,12 +101,7 @@ permalink: organization
          <i class="mr"></i><strong>Technical Program Committee (Poster)</strong>
       </div>
          <div class="card-block bg-faded committee" style="padding: 5px">
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
-          <p>name</p>
+          <p>Coming soon</p>
       </div>
       </div>
 
