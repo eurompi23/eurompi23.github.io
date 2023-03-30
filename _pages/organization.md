@@ -84,6 +84,7 @@ permalink: organization
           <p>Pérache Marc, CEA, France</p>
           <p>Casas Marc, BSC, Spain</p>
           <p>Capra Antoine, Atos, France</p>
+	  <p>Koziol Quincey, Amazon, USA</p>
    	  <!-- <p>Koziol Quincey, Amazon, USA</p>
           <p>Leon Edgar, Lawrence Livermore National Laboratory, USA</p>
           <p>Hammond Jeff, XXX, XXX</p>
