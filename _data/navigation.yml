@@ -17,14 +17,11 @@ main:
     - title: "Call for Posters and short Papers"
       url: posters
 
-#    - title: "Sponsors"
-#      url: /2020/sponsors
-
     - title: "Organizers"
       url: organization
 
-      #- title: "Venue"
-      #url: venue
+     # - title: "Venue"
+     # url: venue
 
       #- title: "Registration"
       #url: registration

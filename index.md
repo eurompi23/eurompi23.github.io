@@ -6,7 +6,7 @@ permalink: index
 <!-- ![Banner](/assets/banner_hamburg.jpg){:height="auto" width="100%"} -->
 
 <h1>Welcome to EuroMPI'23</h1> 
-  <p class="lead">11-13 September 2023, Bristol, England</p>
+  <p class="lead">11-13 September 2023, Bristol, UK</p>
 
 
 <div style="display: flex; flex-direction:row;">
