@@ -96,12 +96,17 @@ permalink: organization
       </div>
       </div>
 
-<div class="card">
+<div class="card text-justify conference-text">
       <div class="card-header text-white bg-inverse">
          <i class="mr"></i><strong>Technical Program Committee (Poster)</strong>
       </div>
          <div class="card-block bg-faded committee" style="padding: 5px">
-          <p>Coming soon</p>
+	  <p>Matthieu Dorier, Argonne National Lab, USA</p>
+	  <p>Alessandro Fanfarillo, AMD, USA</p>
+	  <p>Martin Schreiber, Université Grenoble Alpes (UGA), France</p>
+	  <p>David E. Singh, Universidad Carlos III de Madrid (UC3M), Spain</p>
+	  <p>Artem Polyakov, NVIDIA, USA</p>
+	  <p>Ahmad Tarraf, TU Darmstadt, Germany</p>
       </div>
       </div>
 
