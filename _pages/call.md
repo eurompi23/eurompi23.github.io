@@ -10,7 +10,7 @@ permalink: call
 
 <p>EuroMPI 2023 will continue to focus on advancing the ubiquitous Message Passing Interface (MPI) model and specification of parallel programming. It will also encompass extensions and alternative interfaces for high-performance heterogeneous and hybrid systems, benchmarks, tools, parallel I/O, fault tolerance, and parallel applications using MPI and other interfaces.</p>  
 
-<p>EuroMPI 2023 will be hosted in Bristol and will be co-located with IWOMP 2023 (September 13-15, 2023), with joint tutorials, and opportunities to interact between the two communities.</p>
+<p>EuroMPI 2023 will be hosted by the University of Bristol and will be co-located with IWOMP 2023 (September 13-15, 2023), with joint tutorials, and opportunities to interact between the two communities.</p>
 
 <p>Through the presentation of full papers, position papers, posters, and invited talks, the meeting will provide ample opportunities for attendees to interact and share ideas and experiences to contribute to the improvement and furthering of message-passing and related parallel programming paradigms.</p>
 
@@ -53,7 +53,7 @@ permalink: call
 <!-- - Submission deadline: 21st February 2022 AoE -->
 <!-- - Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE -->
 <ul>
-<li> Abstract deadline: <b>15th April 2023 AoE</b></li>
+<li> Abstract deadline: <b>22th April 2023 AoE</b></li>
 <li> Submission deadline: <b>29th April 2023 AoE</b></li> 
 <li> Paper notification: 19th June 2023 AoE</li> 
 <li> Camera-ready version: TBD</li>
