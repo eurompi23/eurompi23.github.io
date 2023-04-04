@@ -56,17 +56,18 @@ permalink: call
 <li> Abstract deadline: <b>22th April 2023 AoE</b></li>
 <li> Submission deadline: <b>29th April 2023 AoE</b></li> 
 <li> Paper notification: 19th June 2023 AoE</li> 
-<li> Camera-ready version: TBD</li>
+<!-- <li> Camera-ready version: TBD</li> -->
 </ul>
 
 <h1>Submissions Guidelines</h1>
 
-<p> To be considered, papers must be formatted according to the "acmconf" template style of the <a href="https://www.acm.org/publications/proceedings-template">ACM Primary Article Template</a>. Full papers may be up to 10 pages in length in PDF format.</p> 
+<p> To be considered, papers must be formatted according to the "sigconf" template style of the <a href="https://www.acm.org/publications/proceedings-template">ACM Primary Article Template</a>. Full papers may be up to 10 pages in length in PDF format.</p> 
 
 <p>The Overleaf template for LaTeX users can be found <a href="https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty">here</a> (updated to point to the two-column format). Please make sure to use the "acmconf" template style.</p>
 <p>The page limit includes figures, tables, and appendices, but does not include references, for which there is no page limit. Margins, spacing, and font sizes should not be modified from the template.</p>
 
-<!-- [Submission Website](https://easychair.org/conferences/?conf=c3po22) -->
+Authors should submit their work through the <a href="https://easychair.org/conferences/?conf=eurompi23">EuroMPI 2023</a> Submission Site at easychair.
+Note that at least one of the authors of each paper accepted for presentation in EuroMPI 2023 must be registered.
 
 </div>
 

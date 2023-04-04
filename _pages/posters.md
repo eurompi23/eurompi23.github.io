@@ -50,7 +50,7 @@ Tools, Models and Monitoring:
 <ul>
 <li> Short papers and posters submission deadline: <b>1st July 2023 AoE</b></li>
 <li> Short papers and posters notification: 10th July 2023 AoE</li>
-<li> Camera-ready version: TBD</li> 
+<!-- <li> Camera-ready version: TBD</li> -->
 </ul>
 
 <h1>Submissions Guidelines</h1>
@@ -69,7 +69,8 @@ Tools, Models and Monitoring:
 <li> A short paper (5 pages maximum, including figures and references, formatted according to the "sigconf" style in the <a href="http://www.acm.org/publications/proceedings-template">ACM 2017 Template</a>. The Overleaf template for LaTeX users can be found <a href="https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc">here</a>).</li>
 </ul>
 
- 
+Authors should submit their work through the <a href="https://easychair.org/conferences/?conf=eurompi23">EuroMPI 2023</a> Submission Site at easychair.
+Note that at least one of the authors of each poster and short paper accepted for presentation in EuroMPI 2023 must be registered. 
 
 </div>
 
