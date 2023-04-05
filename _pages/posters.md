@@ -53,7 +53,7 @@ Tools, Models and Monitoring:
 <!-- <li> Camera-ready version: TBD</li> -->
 </ul>
 
-<h1>Submissions Guidelines</h1>
+<h1>Submission Guidelines</h1>
 
 <p>Poster submissions should include the following items:</p>
 <ul>

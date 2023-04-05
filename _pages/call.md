@@ -59,7 +59,7 @@ permalink: call
 <!-- <li> Camera-ready version: TBD</li> -->
 </ul>
 
-<h1>Submissions Guidelines</h1>
+<h1>Submission Guidelines</h1>
 
 <p> To be considered, papers must be formatted according to the "sigconf" template style of the <a href="https://www.acm.org/publications/proceedings-template">ACM Primary Article Template</a>. Full papers may be up to 10 pages in length in PDF format.</p> 
 
