@@ -57,7 +57,7 @@ Tools, Models and Monitoring:
 
 <p>Poster submissions should include the following items:</p>
 <ul>
-<li> An extended abstract with a maximum length of 3 pages (including figures and references). The extended abstract should be formatted according to the "acmconf" style in the <a href="http://www.acm.org/publications/proceedings-template">ACM 2017 Template</a>. The Overleaf template for LaTeX users can be found <a href="https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc">here</a>.</li>
+<li> An extended abstract with a maximum length of 3 pages (including figures and references). The extended abstract should be formatted according to the "sigconf" style in the <a href="http://www.acm.org/publications/proceedings-template">ACM 2017 Template</a>. The Overleaf template for LaTeX users can be found <a href="https://www.overleaf.com/latex/templates/association-for-computing-machinery-acm-sig-proceedings-template/bmvfhcdnxfty">here</a>.</li>
 <li> A draft of the poster. It is not necessary to include complete results; placeholders for last-minute results are acceptable.</li>
 <li> The poster can be in the traditional A0 page size (portrait or landscape) or any other page format, including multi-page documents.</li>
 <li> The poster should be submitted in PDF format.</li>
