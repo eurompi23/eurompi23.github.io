@@ -53,8 +53,8 @@ permalink: call
 <!-- - Submission deadline: 21st February 2022 AoE -->
 <!-- - Submission deadline: ~~21st February 2022 AoE~~ 28th February 2022 AoE -->
 <ul>
-<li> Abstract **EXTENDED** deadline: <b>~~22th April 2023~~ AoE 1st May 2023 AoE</b></li>
-<li> Submission **EXTENDED** deadline: <b>~~29th April 2023 AoE~~ 15th May 2023 AoE</b></li> 
+<li> Abstract <b>EXTENDED</b> deadline: <b><del>22th April 2023</del> AoE 8th May 2023 AoE</b></li>
+<li> Submission <b>EXTENDED</b> deadline: <b><del>29th April 2023 AoE</del> 15th May 2023 AoE</b></li> 
 <li> Paper notification: 19th June 2023 AoE</li> 
 <!-- <li> Camera-ready version: TBD</li> -->
 </ul>
