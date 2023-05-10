@@ -18,7 +18,7 @@ permalink: organization
   </div> 
 
   <div style="display: flex; flex-direction:row;"> 
-    <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Hugo" width="120" height="120" /></div>
+    <div style="margin-top: 10px;"><img src="assets/Hugo.jpg" alt="Hugo" width="120" height="120" /></div>
     <div style="margin-left: 30px; margin-top: 10px;"><p><b>Hugo Taboada</b>, CEA</p> <p>General co-chair & Program co-chair</p></div>
   </div>
 
