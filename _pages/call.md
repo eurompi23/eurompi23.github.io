@@ -55,7 +55,7 @@ permalink: call
 <ul>
 <li> Abstract <b>EXTENDED</b> deadline: <b><del>22th April 2023 AoE</del>, 8th May 2023 AoE</b></li>
 <li> Submission <b>FINAL EXTENDED</b> deadline: <b><del>29th April 2023 AoE, 15th May 2023 AoE</del>, 20th May 2023 AoE</b></li> 
-<li> Paper notification: 19th June 2023 AoE</li> 
+<li> Paper notification: <s>19th</s> 22nd June 2023 AoE</li> 
 <!-- <li> Camera-ready version: TBD</li> -->
 </ul>
 
