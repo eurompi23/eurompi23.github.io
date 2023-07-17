@@ -102,7 +102,9 @@ permalink: organization
          <i class="mr"></i><strong>Technical Program Committee (Poster)</strong>
       </div>
          <div class="card-block bg-faded committee" style="padding: 5px">
+	  <p>Julien Adam, ParaTools SAS, France</p>
 	  <p>Matthieu Dorier, Argonne National Lab, USA</p>
+	  <p>Rob Latham, Argonne National Lab, USA</p>
 	  <p>Alessandro Fanfarillo, AMD, USA</p>
 	  <p>Martin Schreiber, Université Grenoble Alpes (UGA), France</p>
 	  <p>David E. Singh, Universidad Carlos III de Madrid (UC3M), Spain</p>
