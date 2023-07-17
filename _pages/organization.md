@@ -56,7 +56,7 @@ permalink: organization
          <i class="mr"></i><strong>Technical Program Committee (Paper)</strong>
       </div>
          <div class="card-block bg-faded committee" style="padding: 5px">
-          <p>Bland Wesley, Metai, USA</p>
+          <p>Bland Wesley, Meta, USA</p>
           <p>Subramoni Hari, Ohio State University, USA</p>
           <p>Hermanns Marc-André, RWTH, Germany</p>
           <p>Raffenetti Ken, Argonne National Laboratory, USA</p>
