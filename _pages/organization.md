@@ -29,23 +29,29 @@ permalink: organization
 
    <div style="display: flex; flex-direction:row;">
      <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Guillaume" width="120" height="120" /></div>
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Guillaume Mercier</b>, Bordeaux INP</p> <p>Publisher Chair </p></div> 
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Guillaume Mercier</b>, Bordeaux INP</p> <p>Publisher chair </p></div> 
    </div> 
 
    <div style="display: flex; flex-direction:row;">
      <div style="margin-top: 10px;"><img src="assets/jb.png" alt="JB" width="120" height="120" /></div> 
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Jean-Baptiste Besnard</b>, Paratools</p> <p>Poster Chair</p></div> 
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Jean-Baptiste Besnard</b>, Paratools</p> <p>Poster chair</p></div> 
    </div> 
 
    <div style="display: flex; flex-direction:row;">
      <div style="margin-top: 10px;"><img src="assets/BrianSmith.png" alt="Brian" width="120" height="120" /></div> 
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Brian Smith</b>, Cornelis Networks</p> <p>Finance and Registration Chair</p></div> 
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Brian Smith</b>, Cornelis Networks</p> <p>Finance and Registration chair</p></div> 
    </div> 
 
    <div style="display: flex; flex-direction:row;">
      <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Simon" width="120" height="120" /></div> 
-     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Simon McIntosh-Smith</b>, University of Bristol</p> <p>Local Chair</p></div> 
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Simon McIntosh-Smith</b>, University of Bristol</p> <p>Local chair</p></div> 
    </div> 
+
+   <div style="display: flex; flex-direction:row;">
+     <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Tim" width="120" height="120" /></div> 
+     <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Tim Lewis</b>, Independent</p> <p>Local co-chair and Registration co-chair</p></div> 
+   </div> 
+
 
 </div>
 
