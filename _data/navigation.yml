@@ -8,8 +8,8 @@ main:
     - title: "Home"
       url: /index
 
-      #    - title: "Program"
-      # url: program
+    - title: "Program"
+      url: program
 
     - title: "Call for Papers"
       url: call
