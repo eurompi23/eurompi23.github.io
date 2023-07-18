@@ -25,6 +25,13 @@ Detailed travel information for visiting Bristol and the University can be found
 
 Bristol is well served by a range of hotels within close proximity of the venue.  For additional information on visiting Bristol and finding local accommodation we would recommend trying <a href="https://visitbristol.co.uk">https://visitbristol.co.uk</a>. 
 
+<h3>Social event : EuroMPI and Iwomp Joint Dinner</h3>
+
+Wednesday, September 13th 2023, at 7:00pm.
+<a href="https://www.browns-restaurants.co.uk/restaurants/southwest/bristol#/">Browns Brasserie and Bar (Bristol)</a>
+Location: 38 Queens Road, Clifton, UK, BS8 1RE (a 5 min walk from the conference venue)
+
+
 <h3>VISA Invitation Letters</h3>
 
-If you require an invitation letter to apply for a visa to attend the conference please contact the event organiser with your full name, affiliation and home address.
+If you require an invitation letter to apply for a visa to attend the conference please contact the local organizer <a href="mailto:tl17424@bristol.ac.uk?subject=VISA Request">Tim Lewis</a> with your full name, affiliation and home address.
