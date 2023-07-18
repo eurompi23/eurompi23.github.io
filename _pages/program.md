@@ -37,6 +37,7 @@ View-aware Message Passing Through the Integration of Kokkos and ExaMPI
 ## 12:30 pm - Lunch Break
 
 ## 2:00 pm - Poster lightning talks
+
 |Time     | Title                  | Authors 
 |:------- |:---------------------------------- |:-----
 |2:00 pm  | Introduction to the Poster Session | 
