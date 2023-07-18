@@ -27,7 +27,7 @@ Bristol is well served by a range of hotels within close proximity of the venue.
 
 <h3>Social event : EuroMPI and Iwomp Joint Dinner</h3>
 
-Wednesday, September 13th 2023, at 7:00pm.<br>=
+Wednesday, September 13th 2023, at 7:00pm.<br>
 <a href="https://www.browns-restaurants.co.uk/restaurants/southwest/bristol#/">Browns Brasserie and Bar (Bristol)</a><br>
 Location: 38 Queens Road, Clifton, UK, BS8 1RE (a 5 min walk from the conference venue)<br>
 
