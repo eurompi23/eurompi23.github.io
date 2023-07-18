@@ -8,6 +8,35 @@ permalink: program
 
 TBD
 
+
+## Monday, July 11th
+
+|Time     | Presentation type                  | Details 
+|:------- |:---------------------------------- |:-----
+|9:00 am  | Welcome                            | 
+|-------- |----------------------------------- |-----
+|9:05 am  | Invited Talk                       | TBD 
+|-------- |----------------------------------- |-----
+|10:15 am | Break                              | 
+|-------- |----------------------------------- |-----
+|         | Paper session I : MPI compsability | 
+|10:45 am | Best paper presentation            | MPI Application Binary Interface Standardization 
+|11:30 am | Paper presentation                 | Frustrated With MPI+Threads? Tru MPIxThreads! 
+|12:00 pm | Paper presentation                 | View-aware Message Passing Through the Integration of Kokkos and ExaMPI
+|---------| ---------------------------------- |-----  
+|12:30 pm | Lunch break                        | 
+|-------- | ---------------------------------- |----- 
+|14:00 pm | Poster lightning taks              | 
+|-------- | ---------------------------------- |----- 
+|15:00 pm | Break                              | 
+|-------- | ---------------------------------- |----- 
+|         | Paper session II : MPI Handles     | 
+|15:30 pm | Paper presentation                 | Investigating the Usage of MPI Handles in HPC Codes 
+|16:00 pm | Paper presentation                 | Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes 
+|16:30 pm | Paper presentation                 | A Shim Layer for Transparently Adding Meta Data to MPI Handles 
+|-------- | ---------------------------------- |-----
+
+
 <!--
 
 <div class="row mt-xs-0 mt-sm-0 mt-md-1 mt-lg-2 mt-xl-2 mb-xs-2 mb-sm-2">
