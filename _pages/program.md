@@ -9,65 +9,113 @@ permalink: program
 
 
 
-## Monday, July 11th
+# Monday, July 11th
 
-### 9:00 am - Welcome
+## 9:00 am - Welcome
 *TBD*
 
-### 9:05 am - Invited Talk
+## 9:05 am - Invited Talk
 *TBD*
 
-### 10:15 am - Break
+## 10:15 am - Break
 
-### 10:45 am - Paper Session I : MPI composability
-#### 10:45 am - Best paper presentation
+## 10:45 am - Paper Session I : MPI composability
+### 10:45 am - Best paper presentation
 MPI Application Binary Interface Standardization
-#### 11:00 am - Paper presentation
+### 11:00 am - Paper presentation
 Frustrated With MPI+Threads? Tru MPIxThreads!
-#### 12:00 pm - Paper presentation
+### 12:00 pm - Paper presentation
 View-aware Message Passing Through the Integration of Kokkos and ExaMPI
 
-### 12:30 pm - Lunch Break
+## 12:30 pm - Lunch Break
 
-### 2:00 pm - Poster lightning talks
+## 2:00 pm - Poster lightning talks
+|Time     | Title                  | Authors 
+|:------- |:---------------------------------- |:-----
+|2:00 pm  | Introduction to the Poster Session | 
+|-------- |----------------------------------- |-----
+|         | Session : Network Layer            |  
+|2:04 pm  | Taking Open MPI to New Frontiers   | Amir Shehata, Thomas Naughton, David Bernholdt and Howard Pritchard 
+|-------- |----------------------------------- |-----
+|         | Session : Efficient implementation of MPI | 
+|2:12 pm  | An efficient implementation of blocking and persistent MPI collective communication | Andreas Jocksch and Jean-Guillaume Piccinali
+|2:20 pm  | Partitioned Communication and Message Aggregation | W. Pepper Marts
+|2:28 pm  | MPI Advance : Open-Source Message Passing Optimizationsi | Amanda Bienz, Derek Schafer and Anthony Skjellum
+|---------| ---------------------------------- |-----  
+|         | Session : Tool support     | 
+|2:36 pm  | Enabling Non-Destructive Testing of the Statuses of Multiple Request | William R. Williams, Marc-André Hermanns and Joachim Jenke 
+|---------| ---------------------------------- |-----  
+|         | Session :ABI efforts |  
+|2:44 pm  | Implementing the MPI ABI in the MPC MPI Runtime | Corentin Beaulieu, Julien Jaeger and Jean-Baptiste Besnard
+|2:52 pm  | An Automatic MPI ABI Translation Library Builder to Enable MPI Application Binary Portability | Shinji Sumimoto, Toshihiro Hanawa and Kengo Nakajima 
+|-------- | ---------------------------------- |-----
 
-### 3:00 pm - Break
 
-### 3:30 pm - Poster Session II : MPI Handles
-#### 3:30 pm - Paper presentation
+## 3:00 pm - Break
+
+## 3:30 pm - Poster Session II : MPI Handles
+### 3:30 pm - Paper presentation
 Investigating the Usage of MPI Handles in HPC Codes 
-#### 4:00 pm - Paper presentation
+### 4:00 pm - Paper presentation
 Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes
-#### 4:30 pm - Paper presentation
+### 4:30 pm - Paper presentation
 A Shim Layer for Transparently Adding Meta Data to MPI Handles
+
+
+# Tuesday, July 12th
+
+## 9:00 am - Paper Session III - Communication evaluation, modeling and optimization
+### 9:00 am - Paper presentation
+Synchronizing MPI Processes in Space and Time
+### 9:30 am - Paper presentation
+Evaluating the Viability of LogGP for Modeling MPI Performance with Non-contiguous Datatypes on Modern Architectures
+### 10:00 am - Paper presentation
+Optimizing Communication in 2D Grid-Based MPI Applications at Exascale
+
+## 10:30 am - Break
+
+## 11:00 am - Invited Talk
+*TBD*
+
+## 2:00 pm - Paper Session IV - MPI implementation support and safety
+### 2:00 pm - Paper presentation
+Improving MPI Safety for Modern Languages
+### 2:30 pm - Paper presentation
+Generating and Scaling a Multi-Language Test-Suite for MPI
+
+## 3:00 pm - Break
+
+## 3:30 pm - Panel
+*TBD*
+
+
+# Wednesday, July 13th
+
+## 9:00 am - MPI Tutorial - Parcoach
+## 1:00 pm - Lunch break
 
 
 
 <!--
 
-|Time     | Presentation type                  | Details 
+|Time     | Title                  | Authors 
 |:------- |:---------------------------------- |:-----
-|9:00 am  | Welcome                            | 
+|2:00 pm  | Introduction to the Poster Session | 
 |-------- |----------------------------------- |-----
-|9:05 am  | Invited Talk                       | TBD 
+|         | Session : Network Layer            |  
+|2:04 pm  | Taking Open MPI to New Frontiers   | Amir Shehata, Thomas Naughton, David Bernholdt and Howard Pritchard 
 |-------- |----------------------------------- |-----
-|10:15 am | Break                              | 
-|-------- |----------------------------------- |-----
-|         | Paper session I : MPI compsability | 
-|10:45 am | Best paper presentation            | MPI Application Binary Interface Standardization 
-|11:30 am | Paper presentation                 | Frustrated With MPI+Threads? Tru MPIxThreads! 
-|12:00 pm | Paper presentation                 | View-aware Message Passing Through the Integration of Kokkos and ExaMPI
+|         | Session : Efficient implementation of MPI | 
+|2:12 pm  | An efficient implementation of blocking and persistent MPI collective communication | Andreas Jocksch and Jean-Guillaume Piccinali
+|2:20 pm  | Partitioned Communication and Message Aggregation | W. Pepper Marts
+|2:28 pm  | MPI Advance : Open-Source Message Passing Optimizationsi | Amanda Bienz, Derek Schafer and Anthony Skjellum
 |---------| ---------------------------------- |-----  
-|12:30 pm | Lunch break                        | 
-|-------- | ---------------------------------- |----- 
-|14:00 pm | Poster lightning taks              | 
-|-------- | ---------------------------------- |----- 
-|15:00 pm | Break                              | 
-|-------- | ---------------------------------- |----- 
-|         | Paper session II : MPI Handles     | 
-|15:30 pm | Paper presentation                 | Investigating the Usage of MPI Handles in HPC Codes 
-|16:00 pm | Paper presentation                 | Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes 
-|16:30 pm | Paper presentation                 | A Shim Layer for Transparently Adding Meta Data to MPI Handles 
+|         | Session : Tool support     | 
+|2:36 pm  | Enabling Non-Destructive Testing of the Statuses of Multiple Request | William R. Williams, Marc-André Hermanns and Joachim Jenke 
+|---------| ---------------------------------- |-----  
+|         | Session :ABI efforts |  
+|2:44 pm  | Implementing the MPI ABI in the MPC MPI Runtime | Corentin Beaulieu, Julien Jaeger and Jean-Baptiste Besnard
+|2:52 pm  | An Automatic MPI ABI Translation Library Builder to Enable MPI Application Binary Portability | Shinji Sumimoto, Toshihiro Hanawa and Kengo Nakajima 
 |-------- | ---------------------------------- |-----
 
 
