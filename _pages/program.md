@@ -6,10 +6,44 @@ permalink: program
 
 ![Banner](/assets/banner-B.png){:height="auto" width="100%"}
 
-TBD
+
 
 
 ## Monday, July 11th
+
+### 9:00 am - Welcome
+*TBD*
+
+### 9:05 am - Invited Talk
+*TBD*
+
+### 10:15 am - Break
+
+### 10:45 am - Paper Session I : MPI composability
+#### 10:45 am - Best paper presentation
+MPI Application Binary Interface Standardization
+#### 11:00 am - Paper presentation
+Frustrated With MPI+Threads? Tru MPIxThreads!
+#### 12:00 pm - Paper presentation
+View-aware Message Passing Through the Integration of Kokkos and ExaMPI
+
+### 12:30 pm - Lunch Break
+
+### 2:00 pm - Poster lightning talks
+
+### 3:00 pm - Break
+
+### 3:30 pm - Poster Session II : MPI Handles
+#### 3:30 pm - Paper presentation
+Investigating the Usage of MPI Handles in HPC Codes 
+#### 4:00 pm - Paper presentation
+Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes
+#### 4:30 pm - Paper presentation
+A Shim Layer for Transparently Adding Meta Data to MPI Handles
+
+
+
+<!--
 
 |Time     | Presentation type                  | Details 
 |:------- |:---------------------------------- |:-----
