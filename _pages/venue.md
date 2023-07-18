@@ -6,7 +6,7 @@ permalink: venue
 
 <h1>Venue</h1>
 
-<p>EuroMPI 2023, IWOMP and the MPI Forum will be located on the <a href="https://www.bristol.ac.uk">University of Bristol</a> at</p>
+<p>EuroMPI 2023, IWOMP and the MPI Forum will be located on the <a href="https://www.bristol.ac.uk">University of Bristol</a> at:</p>
 
 <p>
 Bill Brown Design Suite, Queen’s Building, Woodland Road<br>
@@ -18,7 +18,7 @@ United Kingdom<br>
 
 <h3>Travelling to Bristol</h3>
 
-Bristol is a city straddling the River Avon in the southwest of England with a prosperous maritime history. 
+Bristol is a city straddling the River Avon in the southwest of England with a prosperous maritime history.<br> 
 Detailed travel information for visiting Bristol and the University can be found on the <a href="https://www.bristol.ac.uk/maps/directions/">University of Bristol Directions</a> page. For anyone travelling by car the nearest car park is the <a href="https://www.google.com/maps/place/Trenchard+Street+Car+Park/@51.4563016,-2.6031788,17z/data=!4m6!3m5!1s0x48718dd73ed2b8c3:0x5253c44ed6590c3a!8m2!3d51.4549041!4d-2.5997521!16s%2Fg%2F1tfp1xlg?entry=ttu">Trenchard Street Car Park</a>.
 
 <h3>Accommodation</h3>
@@ -27,9 +27,9 @@ Bristol is well served by a range of hotels within close proximity of the venue.
 
 <h3>Social event : EuroMPI and Iwomp Joint Dinner</h3>
 
-Wednesday, September 13th 2023, at 7:00pm.
-<a href="https://www.browns-restaurants.co.uk/restaurants/southwest/bristol#/">Browns Brasserie and Bar (Bristol)</a>
-Location: 38 Queens Road, Clifton, UK, BS8 1RE (a 5 min walk from the conference venue)
+Wednesday, September 13th 2023, at 7:00pm.<br>=
+<a href="https://www.browns-restaurants.co.uk/restaurants/southwest/bristol#/">Browns Brasserie and Bar (Bristol)</a><br>
+Location: 38 Queens Road, Clifton, UK, BS8 1RE (a 5 min walk from the conference venue)<br>
 
 
 <h3>VISA Invitation Letters</h3>
