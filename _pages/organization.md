@@ -48,7 +48,7 @@ permalink: organization
    </div> 
 
    <div style="display: flex; flex-direction:row;">
-     <div style="margin-top: 10px;"><img src="assets/silhouette.png" alt="Tim" width="120" height="120" /></div> 
+     <div style="margin-top: 10px;"><img src="assets/Tim_lewis.jpeg" alt="Tim" width="120" height="120" /></div> 
      <div style="margin-left: 30px; margin-top: 10px;"> <p><b>Tim Lewis</b>, Independent</p> <p>Local co-chair and Registration co-chair</p></div> 
    </div> 
 
