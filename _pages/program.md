@@ -284,7 +284,7 @@ Zoom link (coming soon)</td>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Investigating the Usage of MPI Handles in HPC Codes</div>
+                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Investigating the Usage of MPI at Argument-Granularity in HPC Codes</div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr>
