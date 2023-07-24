@@ -32,8 +32,8 @@ permalink: index
   {% include card-important-dates.html %}
 
   <div class="text-justify conference-text">
-  <h2>Submission Website</h2>
-  <p>The registration link will be available here in future</p>
+  <h2>Register</h2>
+  <a href="https://iwomp-eurompi-mpiforum-2023.eventbrite.co.uk/" target="_blank">Link to registration page</a>
   </div>
   </div>
 
