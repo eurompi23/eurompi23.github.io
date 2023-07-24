@@ -150,25 +150,25 @@ Generating and Scaling a Multi-Language Test-Suite for MPI
 <!--
   <div style="font-weight:bold">Opening [<a href="https://youtu.be/NBOvU_RiPEY" target="_blank">Presentation</a>]</div>
 -->
-  <div style="font-weight:bold">Opening</div>
- <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">TBD</div>
+  <div style="font-weight:bold;font-size:1.10em">Opening</div>
+ <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">TBD</div>
  </td>
 <!--
   <td rowspan="4" style="border-left:1px solid gray;width:200px;text-align:center;background-color: #f2f2f2"><a href="https://intel.webex.com/intel/onstage/g.php?MTID=ec42af2e6885b18d705472fe4dcead8b6" target="_blank">Attendee Registration</a></td>
--->
   <td rowspan="8" style="border-left:1px solid gray;width:100px;text-align:center;background-color: #f2f2f2">
 Zoom link (coming soon)</td>
+-->
 </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>9:05 – 10:15</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px">
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
 <!--
           <div style="font-weight:bold">Keynote [<a href="https://youtu.be/VzOVuqYHfSI" target="_blank">Presentation</a>] [<a href="./assets/papers/2020-09-eurompi2020-mpi4.pdf" target="_blank">Slide</a>]</div>
 -->
-          <div style="font-weight:bold">Keynote</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Keynote</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">TBD</div>
 <!--
           <div style="font-weight:bold;padding-left:4px"><a href="keynote.html">The Final Steps to MPI 4.0 - and What's Next</a></div>
 	  -->
@@ -178,11 +178,11 @@ Zoom link (coming soon)</td>
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>10:15 – 10:45</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px">
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
 <!--
           <div style="font-weight:bold">Keynote [<a href="https://youtu.be/VzOVuqYHfSI" target="_blank">Presentation</a>] [<a href="./assets/papers/2020-09-eurompi2020-mpi4.pdf" target="_blank">Slide</a>]</div>
 -->
-          <div style="font-weight:bold">Break</div>
+          <div style="font-weight:bold;font-size:1.10em">Break</div>
 <!--
           <div style="font-weight:bold;padding-left:4px"><a href="keynote.html">The Final Steps to MPI 4.0 - and What's Next</a></div>
 	  -->
@@ -192,28 +192,28 @@ Zoom link (coming soon)</td>
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>10:45 – 12:30</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Paper Session 1: MPI composability - chaired by TBD</div>
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+          <div style="font-weight:bold;font-size:1.10em">Paper Session 1: MPI composability - chaired by TBD</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
 <!--
                 <div style="font-weight:bold;padding-left:4px">Using Advanced Vector Extensions AVX-512 for MPI Reduction [<a href="./assets/papers/Zhong-EuroMPI2020.pptx" target="_blank">Slide</a>] [<a href="https://youtu.be/Z2vGmgymJ34" target="_blank">Presentation</a>]</div>
 -->
-                <div style="font-weight:bold;padding-left:4px">Best paper presentation: MPI Application Binary Interface Standardization </div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Best paper presentation: MPI Application Binary Interface Standardization </div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Frustrated With MPI+Threads? Try MPIxThreads!</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Frustrated With MPI+Threads? Try MPIxThreads!</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">View-aware Message Passing Through the Integration of Kokkos and ExaMPI</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">View-aware Message Passing Through the Integration of Kokkos and ExaMPI</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
           </tr></tbody></table>
         </td>
@@ -222,47 +222,47 @@ Zoom link (coming soon)</td>
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>12:30 – 2:00</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Lunch Break</div>
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+          <div style="font-weight:bold;font-size:1.10em">Lunch Break</div>
         </td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>2:00 – 3:00</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Poster lightning talks</div>
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+          <div style="font-weight:bold;font-size:1.10em">Poster lightning talks</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Introduction to the Poster Session</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Introduction to the Poster Session</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Session : Network Layer</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Taking Open MPI to New Frontiers, Amir Shehata, Thomas Naughton, David Bernholdt and Howard Pritchard</div>
+                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Session : Network Layer</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Taking Open MPI to New Frontiers, Amir Shehata, Thomas Naughton, David Bernholdt and Howard Pritchard</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Session : Efficient implementation of MPI</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">An efficient implementation of blocking and persistent MPI collective communication, Andreas Jocksch and Jean-Guillaume Piccinali</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Partitioned Communication and Message Aggregation, W. Pepper Marts</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">MPI Advance : Open-Source Message Passing Optimizations, Amanda Bienz, Derek Schafer and Anthony Skjellum</div>
+                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Session : Efficient implementation of MPI</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">An efficient implementation of blocking and persistent MPI collective communication, Andreas Jocksch and Jean-Guillaume Piccinali</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Partitioned Communication and Message Aggregation, W. Pepper Marts</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">MPI Advance : Open-Source Message Passing Optimizations, Amanda Bienz, Derek Schafer and Anthony Skjellum</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Session : Tool support</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Enabling Non-Destructive Testing of the Statuses of Multiple Request, William R. Williams, Marc-André Hermanns and Joachim Jenke</div>
+                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Session : Tool support</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Enabling Non-Destructive Testing of the Statuses of Multiple Request, William R. Williams, Marc-André Hermanns and Joachim Jenke</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Session :ABI efforts</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">Implementing the MPI ABI in the MPC MPI Runtime, Corentin Beaulieu, Julien Jaeger and Jean-Baptiste Besnard</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">An Automatic MPI ABI Translation Library Builder to Enable MPI Application Binary Portability, Shinji Sumimoto, Toshihiro Hanawa and Kengo Nakajima</div>
+                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Session : ABI efforts</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Implementing the MPI ABI in the MPC MPI Runtime, Corentin Beaulieu, Julien Jaeger and Jean-Baptiste Besnard</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">An Automatic MPI ABI Translation Library Builder to Enable MPI Application Binary Portability, Shinji Sumimoto, Toshihiro Hanawa and Kengo Nakajima</div>
               </td>
             </tr></tbody></table>
         </td>
@@ -271,33 +271,33 @@ Zoom link (coming soon)</td>
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>3:00 – 3:30</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Break</div>
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+          <div style="font-weight:bold;font-size:1.10em">Break</div>
         </td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>3:30 – 5:00</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Paper Session 2: MPI Handles - chaired by TBD</div>
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+          <div style="font-weight:bold;font-size:1.10em">Paper Session 2: MPI Handles - chaired by TBD</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Investigating the Usage of MPI Handles in HPC Codes</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Investigating the Usage of MPI Handles in HPC Codes</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;font-size:1.10em;padding-left:4px;font-size:1.10em">Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">A Shim Layer for Transparently Adding Meta Data to MPI Handles</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">A Shim Layer for Transparently Adding Meta Data to MPI Handles</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr></tbody></table>
         </td>
@@ -312,45 +312,47 @@ Zoom link (coming soon)</td>
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>9:00 – 10:30</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Paper Session 3: Communication evaluation, modeling and optimization - chaired by TBD</div>
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+          <div style="font-weight:bold;font-size:1.10em">Paper Session 3: Communication evaluation, modeling and optimization - chaired by TBD</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Synchronizing MPI Processes in Space and Time</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Synchronizing MPI Processes in Space and Time</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Evaluating the Viability of LogGP for Modeling MPI Performance with Non-contiguous Datatypes on Modern Architectures</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Evaluating the Viability of LogGP for Modeling MPI Performance with Non-contiguous Datatypes on Modern Architectures</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Optimizing Communication in 2D Grid-Based MPI Applications at Exascale</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Optimizing Communication in 2D Grid-Based MPI Applications at Exascale</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr></tbody></table>
         </td>
+<!--
         <td rowspan="7" style="border-left:1px solid gray;width:200px;text-align:center;background-color: #f2f2f2">Zoom link (coming soon)</td>
+-->
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>10:30 – 11:00</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Break</div>
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+          <div style="font-weight:bold;font-size:1.10em">Break</div>
         </td>
       </tr>
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>11:00 – 12:30</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Invited talk</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">TBD</div>
+        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+          <div style="font-weight:bold;font-size:1.10em">Invited talk</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Speaker to be confirmed</div>
         </td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
@@ -358,7 +360,7 @@ Zoom link (coming soon)</td>
           <p>12:30 – 2:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Lunch Break</div>
+          <div style="font-weight:bold;font-size:1.10em">Lunch Break</div>
         </td>
       </tr>
       <tr style="height:40px">
@@ -366,18 +368,18 @@ Zoom link (coming soon)</td>
           <p>2:00 – 3:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Paper Session 4: MPI implementation support and safety - chaired by TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Paper Session 4: MPI implementation support and safety - chaired by TBD</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Improving MPI Safety for Modern Languages</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Improving MPI Safety for Modern Languages</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker  to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px">Generating and Scaling a Multi-Language Test-Suite for MPI</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:0.85em;font-style:italic">speaker</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Generating and Scaling a Multi-Language Test-Suite for MPI</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr></tbody></table>
       <tr style="height:40px;background-color: #f2f2f2">
@@ -385,7 +387,7 @@ Zoom link (coming soon)</td>
           <p>3:00 – 3:30</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Break</div>
+          <div style="font-weight:bold;font-size:1.10em">Break</div>
         </td>
       </tr>
         </td>
@@ -395,7 +397,7 @@ Zoom link (coming soon)</td>
           <p>3:30 – 5:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold">Panel</div>
+          <div style="font-weight:bold;font-size:1.10em">Panel</div>
         </td>
       </tr>
       <tr style="height:15px">
@@ -408,13 +410,25 @@ Zoom link (coming soon)</td>
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>9:00 – 1:00</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">MPI Tutorial: PARCOACH</td>
+	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+        <div style="font-weight:bold">MPI Tutorial: <a href="https://parcoach.github.io" >PARCOACH</a></div>
+	<div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Emmanuelle Saillard</div>
+        </td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>1:00</p>
         </td>
-        <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">Lunch Break</td>
+        <td style="padding-left:4px;padding-right:4px;width:720px;font-weight:bold;font-size:1.10em" colspan="4">Lunch Break</td>
+      </tr>
+      <tr style="height:40px">
+        <td style="border-right:1px solid gray;text-align:center;width:120px">
+          <p>7:00</p>
+        </td>
+	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+        <div style="font-weight:bold;font-size:1.10em">Conference Dinner</div>
+        <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Joint dinner for attendees of WOMP, EuroMPI and MPI Forum Attendees</div>
+	</td>
       </tr>
       </tbody></table>
           <p> </p>

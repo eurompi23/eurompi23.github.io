@@ -1,18 +1,40 @@
 ---
-permalink: registration
+permalink: register
 ---
 
 ![Banner](/assets/banner-B.png){:height="auto" width="100%"}
 
-## Important Dates
+# Register
+
+
+<p>EuroMPI 2023, IWOMP and the MPI Forum will be located on the <a href="https://www.bristol.ac.uk">University of Bristol</a> at:</p>
+
+<p>
+Bill Brown Design Suite, Queen’s Building, Woodland Road<br>
+Bristol, BS8 1TH, 
+United Kingdom<br>
+</p>
+
+
+
+<a href="https://iwomp-eurompi-mpiforum-2023.eventbrite.co.uk/" target="_blank">Register now</a>
+
+
+
+<h3>VISA Invitation Letters</h3>
+
+If you require an invitation letter to apply for a visa to attend the conference please contact the local organizer <a href="mailto:tl17424@bristol.ac.uk?subject=VISA Request">Tim Lewis</a> with your full name, affiliation and home address.
+
+<!--
+
+### Important Dates
   <p>Author registration deadline for the main conference papers: TBD</p>
   <p>Author registration deadline for tutorial and posters: TBD</p>
 
-## Registration Rates
+### Registration Rates
 
 Coming soon
 
-<!--
 <div class="row mt-xs-0 mt-sm-0 mt-md-1 mt-lg-2 mt-xl-2 mb-xs-2 mb-sm-2">
 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-10 offset-xl-1">
   <div class="row">
@@ -58,9 +80,8 @@ Coming soon
   </div>
 
 </div>
--->
 
-## Registration Policies
+### Registration Policies
 
    <ul>
                 <li> Author registration: at least one of the authors of an accepted paper or poster must register as Author Attendee.</li>
@@ -70,23 +91,18 @@ Coming soon
                 <li> The organizers reserve all rights to withdraw the registration or charge the price difference if proof of discount status is not provided or payment is not received.</li>
 
                 <li> Registration payment must be made through the online registration website. We do not accept bank transfer. Participants will receive a confirmation email when registration is complete.</li>
-<!--
                 <li> Cancellation must be requested by sending an email to XXX. No refunds after XXX for paper author registration. No refunds after XXX  for poster author registration. All refunds prior to the cancellation deadline will incur a 15% cancellation processing fee.</li>
--->
   </ul>
+-->
 
-## Registration Site
-  <p>Coming soon</p>
+
 <!--
           <p>Paper and Poster Author Registration: <a href="https://go.regform.com/#!/registration/7elknXQ/info" target="_blank">author registration</a></p>
 
           <p> Non-Author Attendee Registration: Please use the attendee registration link from <a href="program.html">program</a> to register for individual days. </p>
--->
 
-## Visa Information
-<p>Coming soon</p>
 
 ## Contact Information
 <p>Coming soon</p>
-<!-- <p> For inquiries about registration, please send an email to &lt;eurompi2020-registration@mcs.anl.gov&gt;.</p> -->
+<p> For inquiries about registration, please send an email to &lt;eurompi2020-registration@mcs.anl.gov&gt;.</p> -->
 
