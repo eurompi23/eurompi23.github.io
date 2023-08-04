@@ -201,7 +201,7 @@ Zoom link (coming soon)</td>
                 <div style="font-weight:bold;padding-left:4px">Using Advanced Vector Extensions AVX-512 for MPI Reduction [<a href="./assets/papers/Zhong-EuroMPI2020.pptx" target="_blank">Slide</a>] [<a href="https://youtu.be/Z2vGmgymJ34" target="_blank">Presentation</a>]</div>
 -->
                 <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Best paper presentation: MPI Application Binary Interface Standardization </div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Jeff Hammond</div>
               </td>
             </tr>
             <tr>
@@ -285,13 +285,13 @@ Zoom link (coming soon)</td>
             <tr>
               <td>
                 <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Investigating the Usage of MPI at Argument-Granularity in HPC Codes</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Tim Jammer</div>
               </td>
             </tr>
             <tr>
               <td>
                 <div style="font-weight:bold;font-size:1.10em;padding-left:4px;font-size:1.10em">Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Jesper Larsson Träff</div>
               </td>
             </tr>
             <tr>
@@ -330,7 +330,7 @@ Zoom link (coming soon)</td>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Optimizing Communication in 2D Grid-Based MPI Applications at Exascale</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Piyush Sao</div>
               </td>
             </tr></tbody></table>
         </td>
