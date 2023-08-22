@@ -11,7 +11,7 @@ permalink: program
 The following events are being hosted at the University of Bristol.
 * EuroMPI – 11-13 Sept.  See program below
 * IWOMP – 12-15 Sept.  See <a href="https://www.iwomp.org/iwomp-2023/">the website</a> for details
-* MPI Forum Meeting – 14-15 Sept.  See <a href="https://www.mpi-forum.org">https://www.mpi-forum.org</a> for details
+* MPI Forum Meeting – 13 afternoon-15  Sept.  See <a href="https://www.mpi-forum.org">https://www.mpi-forum.org</a> for details
 
 The program below is not yet fixed. Detailed timings may be subject to changes.
 
