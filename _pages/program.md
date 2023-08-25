@@ -151,7 +151,7 @@ Generating and Scaling a Multi-Language Test-Suite for MPI
   <div style="font-weight:bold">Opening [<a href="https://youtu.be/NBOvU_RiPEY" target="_blank">Presentation</a>]</div>
 -->
   <div style="font-weight:bold;font-size:1.10em">Opening</div>
- <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">TBD</div>
+ <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Julien Jaeger</div>
  </td>
 <!--
   <td rowspan="4" style="border-left:1px solid gray;width:200px;text-align:center;background-color: #f2f2f2"><a href="https://intel.webex.com/intel/onstage/g.php?MTID=ec42af2e6885b18d705472fe4dcead8b6" target="_blank">Attendee Registration</a></td>
@@ -168,7 +168,7 @@ Zoom link (coming soon)</td>
           <div style="font-weight:bold">Keynote [<a href="https://youtu.be/VzOVuqYHfSI" target="_blank">Presentation</a>] [<a href="./assets/papers/2020-09-eurompi2020-mpi4.pdf" target="_blank">Slide</a>]</div>
 -->
           <div style="font-weight:bold;font-size:1.10em">Invited talk</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Speaker to be confirmed</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Martin Schulz</div>
 <!--
           <div style="font-weight:bold;padding-left:4px"><a href="keynote.html">The Final Steps to MPI 4.0 - and What's Next</a></div>
 	  -->
@@ -408,7 +408,7 @@ Zoom link (coming soon)</td>
       </tr>
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>9:00 – 12:30</p>
+          <p>9:00 – 12:25</p>
         </td>
 	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
         <div style="font-weight:bold">MPI Tutorial: Hands-On Using <a href="https://parcoach.github.io" >PARCOACH</a></div>
@@ -417,11 +417,20 @@ Zoom link (coming soon)</td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
+          <p>12:25 – 12:30</p>
+        </td>
+	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+        <div style="font-weight:bold">Closing</div>
+	<div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Hugo Taboada</div>
+        </td>
+      </tr>
+      <tr style="height:40px">
+        <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>12:30 - 14:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px;font-weight:bold;font-size:1.10em" colspan="4">Lunch Break</td>
       </tr>
-      <tr style="height:40px">
+      <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>14:00 - 15:00</p>
         </td>
@@ -430,7 +439,7 @@ Zoom link (coming soon)</td>
         <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Professor David May. Emeritus Professor, Department of Computer Science at the University of Bristol and a Fellow of The Royal Society.</div>
 	</td>
       </tr>
-      <tr style="height:40px; background-color: #f2f2f2">
+      <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>15:00</p>
         </td>
@@ -438,7 +447,7 @@ Zoom link (coming soon)</td>
         <div style="font-weight:bold;font-size:1.10em">Afternoon Break & Networking</div>
 	</td>
       </tr>
-      <tr style="height:40px">
+      <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
           <p>19:00</p>
         </td>
