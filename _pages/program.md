@@ -13,7 +13,7 @@ The following events are being hosted at the University of Bristol.
 * IWOMP – 12-15 Sept.  See <a href="https://www.iwomp.org/iwomp-2023/">the website</a> for details
 * MPI Forum Meeting – 14-15 Sept.  See <a href="https://www.mpi-forum.org">https://www.mpi-forum.org</a> for details
 
-The program below is not yet fixed. Detailed timings may be subject to changes.
+The program below is not yet fixed. Detailed timings may be subject to changes. 
 
 
 <!--
@@ -146,7 +146,7 @@ Generating and Scaling a Multi-Language Test-Suite for MPI
  <td style="border-right:1px solid gray;text-align:center;width:120px">
   <p>9:00 – 9:05</p> 
  </td>
- <td style="padding-left:4px;padding-right:4px;width:720px">
+ <td style="padding-left:4px;padding-right:4px;width:900px">
 <!--
   <div style="font-weight:bold">Opening [<a href="https://youtu.be/NBOvU_RiPEY" target="_blank">Presentation</a>]</div>
 -->
@@ -167,8 +167,8 @@ Zoom link (coming soon)</td>
 <!--
           <div style="font-weight:bold">Keynote [<a href="https://youtu.be/VzOVuqYHfSI" target="_blank">Presentation</a>] [<a href="./assets/papers/2020-09-eurompi2020-mpi4.pdf" target="_blank">Slide</a>]</div>
 -->
-          <div style="font-weight:bold;font-size:1.10em">Keynote</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Invited talk</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Speaker to be confirmed</div>
 <!--
           <div style="font-weight:bold;padding-left:4px"><a href="keynote.html">The Final Steps to MPI 4.0 - and What's Next</a></div>
 	  -->
@@ -182,7 +182,7 @@ Zoom link (coming soon)</td>
 <!--
           <div style="font-weight:bold">Keynote [<a href="https://youtu.be/VzOVuqYHfSI" target="_blank">Presentation</a>] [<a href="./assets/papers/2020-09-eurompi2020-mpi4.pdf" target="_blank">Slide</a>]</div>
 -->
-          <div style="font-weight:bold;font-size:1.10em">Break</div>
+          <div style="font-weight:bold;font-size:1.10em">Morning Break & Networking</div>
 <!--
           <div style="font-weight:bold;padding-left:4px"><a href="keynote.html">The Final Steps to MPI 4.0 - and What's Next</a></div>
 	  -->
@@ -220,7 +220,7 @@ Zoom link (coming soon)</td>
       </tr>
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>12:30 – 2:00</p>
+          <p>12:30 – 14:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Lunch Break</div>
@@ -228,7 +228,7 @@ Zoom link (coming soon)</td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>2:00 – 3:00</p>
+          <p>14:00 – 15:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Poster lightning talks</div>
@@ -269,15 +269,15 @@ Zoom link (coming soon)</td>
       </tr> 
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>3:00 – 3:30</p>
+          <p>15:00 – 15:30</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Break</div>
+          <div style="font-weight:bold;font-size:1.10em">Afternoon Break & Networking</div>
         </td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>3:30 – 5:00</p>
+          <p>15:30 – 17:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Paper Session 2: MPI Handles - chaired by TBD</div>
@@ -343,7 +343,7 @@ Zoom link (coming soon)</td>
           <p>10:30 – 11:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Break</div>
+          <div style="font-weight:bold;font-size:1.10em">Morning Break & Networking</div>
         </td>
       </tr>
       <tr style="height:40px">
@@ -357,7 +357,7 @@ Zoom link (coming soon)</td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>12:30 – 2:00</p>
+          <p>12:30 – 14:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
           <div style="font-weight:bold;font-size:1.10em">Lunch Break</div>
@@ -365,7 +365,7 @@ Zoom link (coming soon)</td>
       </tr>
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>2:00 – 3:00</p>
+          <p>14:00 – 15:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
           <div style="font-weight:bold;font-size:1.10em">Paper Session 4: MPI implementation support and safety - chaired by TBD</div>
@@ -384,17 +384,17 @@ Zoom link (coming soon)</td>
             </tr></tbody></table>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>3:00 – 3:30</p>
+          <p>15:00 – 15:30</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold;font-size:1.10em">Break</div>
+          <div style="font-weight:bold;font-size:1.10em">Afternoon Break & Networking</div>
         </td>
       </tr>
         </td>
       </tr>
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>3:30 – 5:00</p>
+          <p>15:30 – 17:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
           <div style="font-weight:bold;font-size:1.10em">Panel</div>
@@ -408,22 +408,39 @@ Zoom link (coming soon)</td>
       </tr>
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>9:00 – 1:00</p>
+          <p>9:00 – 12:30</p>
         </td>
 	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-        <div style="font-weight:bold">MPI Tutorial: <a href="https://parcoach.github.io" >PARCOACH</a></div>
-	<div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Emmanuelle Saillard</div>
+        <div style="font-weight:bold">MPI Tutorial: Hands-On Using <a href="https://parcoach.github.io" >PARCOACH</a></div>
+	<div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Emmanuelle Saillard and Philippe Virouleau</div>
         </td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>1:00</p>
+          <p>12:30 - 14:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px;font-weight:bold;font-size:1.10em" colspan="4">Lunch Break</td>
       </tr>
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>7:00</p>
+          <p>14:00 - 15:00</p>
+        </td>
+	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+        <div style="font-weight:bold;font-size:1.10em">Keynote Presentation: Joint EuroMPI/IWOMP</div>
+        <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Professor David May. Emeritus Professor, Department of Computer Science at the University of Bristol and a Fellow of The Royal Society.</div>
+	</td>
+      </tr>
+      <tr style="height:40px; background-color: #f2f2f2">
+        <td style="border-right:1px solid gray;text-align:center;width:120px">
+          <p>15:00</p>
+        </td>
+	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
+        <div style="font-weight:bold;font-size:1.10em">Afternoon Break & Networking</div>
+	</td>
+      </tr>
+      <tr style="height:40px">
+        <td style="border-right:1px solid gray;text-align:center;width:120px">
+          <p>19:00</p>
         </td>
 	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
         <div style="font-weight:bold;font-size:1.10em">Conference Dinner</div>

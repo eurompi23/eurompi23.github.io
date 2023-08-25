@@ -49,3 +49,18 @@ permalink: index
 <p>For queries concerning research papers (submission, deadlines, publishing, etc.) please contact: emmanuelle.saillard at inria.fr or guillaume.mercier at inria.fr</p>
 
 </div>
+
+
+<div class="text-justify conference-text">
+
+<h2>Sponsors</h2>
+Thanks to our sponsors for their contribution to the success of the event.
+<p> </p>
+
+<div style="display: flex; flex-direction:row;">
+    <div style="margin-left: 30px; margin-top: 30px"><img src="assets/HPE_logo.png" alt="HPE" width="190" height="170" /></div>
+    <div style="margin-left: 150px;"><img src="assets/LOGO_CEA.png" alt="CEA" width="140" height="140" /></div>
+    <div style="margin-left: 150px; margin-top: 40px"><img src="assets/University_of_Bristol_logo.png" alt="Univ" width="190" height="190" /></div>
+</div>
+
+</div>
