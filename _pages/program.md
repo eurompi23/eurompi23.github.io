@@ -352,7 +352,7 @@ Zoom link (coming soon)</td>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Invited talk</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Speaker to be confirmed</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Joseph Schuchart</div>
         </td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
