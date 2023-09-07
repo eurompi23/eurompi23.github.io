@@ -351,8 +351,7 @@ Zoom link (coming soon)</td>
           <p>11:00 – 12:30</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Invited talk</div>
-          <div style="font-weight:bold;padding-left:4px;font-size:1.10em">MPI vs the commercialization of HPC</div>
+          <div style="font-weight:bold;font-size:1.10em">Invited talk : MPI vs the commercialization of HPC</div>
           <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Joseph Schuchart</div>
         </td>
       </tr>
