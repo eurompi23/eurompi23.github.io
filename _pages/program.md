@@ -151,7 +151,7 @@ Generating and Scaling a Multi-Language Test-Suite for MPI
   <div style="font-weight:bold">Opening [<a href="https://youtu.be/NBOvU_RiPEY" target="_blank">Presentation</a>]</div>
 -->
   <div style="font-weight:bold;font-size:1.10em">Opening</div>
- <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Julien Jaeger</div>
+ <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Julien Jaeger</div>
  </td>
 <!--
   <td rowspan="4" style="border-left:1px solid gray;width:200px;text-align:center;background-color: #f2f2f2"><a href="https://intel.webex.com/intel/onstage/g.php?MTID=ec42af2e6885b18d705472fe4dcead8b6" target="_blank">Attendee Registration</a></td>
@@ -167,8 +167,8 @@ Zoom link (coming soon)</td>
 <!--
           <div style="font-weight:bold">Keynote [<a href="https://youtu.be/VzOVuqYHfSI" target="_blank">Presentation</a>] [<a href="./assets/papers/2020-09-eurompi2020-mpi4.pdf" target="_blank">Slide</a>]</div>
 -->
-          <div style="font-weight:bold;font-size:1.10em">Invited talk</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Martin Schulz</div>
+          <div style="font-weight:bold;font-size:1.10em">Invited talk - chaired by Julien Jaeger</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Martin Schulz</div>
 <!--
           <div style="font-weight:bold;padding-left:4px"><a href="keynote.html">The Final Steps to MPI 4.0 - and What's Next</a></div>
 	  -->
@@ -193,7 +193,7 @@ Zoom link (coming soon)</td>
           <p>10:45 – 12:30</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Paper Session 1: MPI composability - chaired by TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Paper Session 1: MPI composability - chaired by Julien Jaeger</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
@@ -231,7 +231,7 @@ Zoom link (coming soon)</td>
           <p>14:00 – 15:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Poster lightning talks</div>
+          <div style="font-weight:bold;font-size:1.10em">Poster lightning talks - chaired by TBD</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
@@ -352,8 +352,8 @@ Zoom link (coming soon)</td>
           <p>11:00 – 12:30</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Invited talk : MPI vs the commercialization of HPC</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Joseph Schuchart</div>
+          <div style="font-weight:bold;font-size:1.10em">Invited talk : MPI vs the commercialization of HPC - chaired by TBD</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Joseph Schuchart</div>
         </td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
@@ -399,8 +399,8 @@ Zoom link (coming soon)</td>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
           <div style="font-weight:bold;font-size:1.10em">Panel : MPI in the next three decades</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Host: TBD</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Panelists: Claudia Blaas-Schenner, Matthew Dosanjh, Joseph Schuchart, Martin Schulz</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Host: Julien Jaeger</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Panelists: Claudia Blaas-Schenner, Matthew Dosanjh, Joseph Schuchart, Martin Schulz</div>
         </td>
       </tr>
       <tr style="height:15px">
@@ -414,7 +414,7 @@ Zoom link (coming soon)</td>
           <p>9:00 – 12:25</p>
         </td>
 	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-        <div style="font-weight:bold">MPI Tutorial: Hands-On Using <a href="https://parcoach.github.io" >PARCOACH</a></div>
+        <div style="font-weight:bold;font-size:1.10em">MPI Tutorial: Hands-On Using <a href="https://parcoach.github.io" >PARCOACH</a></div>
 	<div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Emmanuelle Saillard and Philippe Virouleau</div>
         </td>
       </tr>
@@ -423,7 +423,7 @@ Zoom link (coming soon)</td>
           <p>12:25 – 12:30</p>
         </td>
 	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-        <div style="font-weight:bold">Closing</div>
+        <div style="font-weight:bold;font-size:1.10em">Closing</div>
 	<div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Hugo Taboada</div>
         </td>
       </tr>
