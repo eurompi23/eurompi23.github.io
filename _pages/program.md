@@ -262,7 +262,7 @@ Zoom link (coming soon)</td>
             <tr>
               <td>
                 <div style="font-weight:bold;font-size:1.20em;padding-left:4px">Session : ABI efforts</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Implementing the MPI ABI in the MPC MPI Runtime, Corentin Beaulieu, Julien Jaeger and Jean-Baptiste Besnard [<a href="./assets/papers/EuroMPI23_paper_36.pdf" target="_blank">Paper</a>] </div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Implementing the MPI ABI in the MPC MPI Runtime, Corentin Beaulieu, <b>Julien Jaeger</b> and Jean-Baptiste Besnard [<a href="./assets/papers/EuroMPI23_paper_36.pdf" target="_blank">Paper</a>] </div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">An Automatic MPI ABI Translation Library Builder to Enable MPI Application Binary Portability, Shinji Sumimoto, Toshihiro Hanawa and Kengo Nakajima [<a href="./assets/papers/EuroMPI23_paper_31.pdf" target="_blank">Paper</a>]  </div>
               </td>
             </tr></tbody></table>
@@ -281,7 +281,7 @@ Zoom link (coming soon)</td>
           <p>15:30 – 17:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Paper Session 2: MPI Handles - chaired by TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Paper Session 2: MPI Handles - chaired by Hugo Taboada</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
@@ -369,7 +369,7 @@ Zoom link (coming soon)</td>
           <p>14:00 – 15:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold;font-size:1.10em">Paper Session 4: MPI implementation support and safety - chaired by TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Paper Session 4: MPI implementation support and safety - chaired by Emmanuelle Saillard</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
@@ -380,7 +380,7 @@ Zoom link (coming soon)</td>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Generating and Scaling a Multi-Language Test-Suite for MPI</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Julien Adam</div>
               </td>
             </tr></tbody></table>
       <tr style="height:40px;background-color: #f2f2f2">
