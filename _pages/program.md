@@ -200,20 +200,20 @@ Zoom link (coming soon)</td>
 <!--
                 <div style="font-weight:bold;padding-left:4px">Using Advanced Vector Extensions AVX-512 for MPI Reduction [<a href="./assets/papers/Zhong-EuroMPI2020.pptx" target="_blank">Slide</a>] [<a href="https://youtu.be/Z2vGmgymJ34" target="_blank">Presentation</a>]</div>
 -->
-                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Best paper presentation: MPI Application Binary Interface Standardization </div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Jeff Hammond</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Best paper presentation: MPI Application Binary Interface Standardization </div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Jeff Hammond</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Frustrated With MPI+Threads? Try MPIxThreads!</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Frustrated With MPI+Threads? Try MPIxThreads!</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">View-aware Message Passing Through the Integration of Kokkos and ExaMPI</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">View-aware Message Passing Through the Integration of Kokkos and ExaMPI</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
               </td>
           </tr></tbody></table>
         </td>
@@ -235,34 +235,35 @@ Zoom link (coming soon)</td>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Introduction to the Poster Session</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Introduction to the Poster Session</div>
+		<div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic"> Julien Adam </div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Session : Network Layer</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Taking Open MPI to New Frontiers, Amir Shehata, Thomas Naughton, David Bernholdt and Howard Pritchard</div>
+                <div style="font-weight:bold;font-size:1.20em;padding-left:4px">Session : Network Layer</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Taking Open MPI to New Frontiers, Amir Shehata, Thomas Naughton, David Bernholdt and Howard Pritchard [<a href="./assets/papers/EuroMPI23_paper_35.pdf" target="_blank">Paper</a>] </div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Session : Efficient implementation of MPI</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">An efficient implementation of blocking and persistent MPI collective communication, Andreas Jocksch and Jean-Guillaume Piccinali</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Partitioned Communication and Message Aggregation, W. Pepper Marts</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">MPI Advance : Open-Source Message Passing Optimizations, Amanda Bienz, Derek Schafer and Anthony Skjellum</div>
+                <div style="font-weight:bold;font-size:1.20em;padding-left:4px">Session : Efficient implementation of MPI</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">An efficient implementation of blocking and persistent MPI collective communication, Andreas Jocksch and Jean-Guillaume Piccinali  [<a href="./assets/papers/EuroMPI23_paper_30.pdf" target="_blank">Paper</a>] </div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Partitioned Communication and Message Aggregation, W. Pepper Marts [<a href="./assets/papers/EuroMPI23_paper_34.pdf" target="_blank">Paper</a>] </div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">MPI Advance : Open-Source Message Passing Optimizations, Amanda Bienz, Derek Schafer and Anthony Skjellum [<a href="./assets/papers/EuroMPI23_paper_33.pdf" target="_blank">Paper</a>] </div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Session : Tool support</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Enabling Non-Destructive Testing of the Statuses of Multiple Request, William R. Williams, Marc-André Hermanns and Joachim Jenke</div>
+                <div style="font-weight:bold;font-size:1.20em;padding-left:4px">Session : Tool support</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Enabling Non-Destructive Testing of the Statuses of Multiple Request, William R. Williams, Marc-André Hermanns and Joachim Jenke [<a href="./assets/papers/EuroMPI23_paper_32.pdf" target="_blank">Paper</a>] </div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Session : ABI efforts</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Implementing the MPI ABI in the MPC MPI Runtime, Corentin Beaulieu, Julien Jaeger and Jean-Baptiste Besnard</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">An Automatic MPI ABI Translation Library Builder to Enable MPI Application Binary Portability, Shinji Sumimoto, Toshihiro Hanawa and Kengo Nakajima</div>
+                <div style="font-weight:bold;font-size:1.20em;padding-left:4px">Session : ABI efforts</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Implementing the MPI ABI in the MPC MPI Runtime, Corentin Beaulieu, Julien Jaeger and Jean-Baptiste Besnard [<a href="./assets/papers/EuroMPI23_paper_36.pdf" target="_blank">Paper</a>] </div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">An Automatic MPI ABI Translation Library Builder to Enable MPI Application Binary Portability, Shinji Sumimoto, Toshihiro Hanawa and Kengo Nakajima [<a href="./assets/papers/EuroMPI23_paper_31.pdf" target="_blank">Paper</a>]  </div>
               </td>
             </tr></tbody></table>
         </td>
@@ -284,20 +285,20 @@ Zoom link (coming soon)</td>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;font-size:1.10em;padding-left:4px">Investigating the Usage of MPI at Argument-Granularity in HPC Codes</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Tim Jammer</div>
+                <div style="font-weight:bold;font-size:1.20em;padding-left:4px">Investigating the Usage of MPI at Argument-Granularity in HPC Codes</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Tim Jammer</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;font-size:1.10em;padding-left:4px;font-size:1.10em">Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Jesper Larsson Träff</div>
+                <div style="font-weight:bold;font-size:1.20em;padding-left:4px;font-size:1.10em">Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Jesper Larsson Träff</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">A Shim Layer for Transparently Adding Meta Data to MPI Handles</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">A Shim Layer for Transparently Adding Meta Data to MPI Handles</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr></tbody></table>
         </td>
@@ -317,20 +318,20 @@ Zoom link (coming soon)</td>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Synchronizing MPI Processes in Space and Time</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Synchronizing MPI Processes in Space and Time</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Evaluating the Viability of LogGP for Modeling MPI Performance with Non-contiguous Datatypes on Modern Architectures</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Evaluating the Viability of LogGP for Modeling MPI Performance with Non-contiguous Datatypes on Modern Architectures</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Optimizing Communication in 2D Grid-Based MPI Applications at Exascale</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Piyush Sao</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Optimizing Communication in 2D Grid-Based MPI Applications at Exascale</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Piyush Sao</div>
               </td>
             </tr></tbody></table>
         </td>
@@ -372,14 +373,14 @@ Zoom link (coming soon)</td>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Improving MPI Safety for Modern Languages</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker  to be confirmed</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Improving MPI Safety for Modern Languages</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker  to be confirmed</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.10em">Generating and Scaling a Multi-Language Test-Suite for MPI</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">speaker to be confirmed</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Generating and Scaling a Multi-Language Test-Suite for MPI</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
               </td>
             </tr></tbody></table>
       <tr style="height:40px;background-color: #f2f2f2">
