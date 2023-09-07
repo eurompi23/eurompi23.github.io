@@ -352,6 +352,7 @@ Zoom link (coming soon)</td>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
           <div style="font-weight:bold;font-size:1.10em">Invited talk</div>
+          <div style="font-weight:bold;padding-left:4px;font-size:1.10em">MPI vs the commercialization of HPC</div>
           <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Joseph Schuchart</div>
         </td>
       </tr>
@@ -397,7 +398,9 @@ Zoom link (coming soon)</td>
           <p>15:30 – 17:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
-          <div style="font-weight:bold;font-size:1.10em">Panel</div>
+          <div style="font-weight:bold;font-size:1.10em">Panel : MPI in the next three decades</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Host: TBD</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1.10em;font-style:italic">Panelists: Claudia Blaas-Schenner, Matthew Dosanjh, Joseph Schuchart, Martin Schulz</div>
         </td>
       </tr>
       <tr style="height:15px">
