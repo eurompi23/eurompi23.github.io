@@ -207,13 +207,13 @@ Zoom link (coming soon)</td>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Frustrated With MPI+Threads? Try MPIxThreads!</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Hui Zhou</div>
               </td>
             </tr>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">View-aware Message Passing Through the Integration of Kokkos and ExaMPI</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Evan Suggs</div>
               </td>
           </tr></tbody></table>
         </td>
@@ -298,7 +298,7 @@ Zoom link (coming soon)</td>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">A Shim Layer for Transparently Adding Meta Data to MPI Handles</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Joachim Jenke</div>
               </td>
             </tr></tbody></table>
         </td>
@@ -319,13 +319,13 @@ Zoom link (coming soon)</td>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Synchronizing MPI Processes in Space and Time</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Joseph Schuchart or Sascha Hunold</div>
               </td>
             </tr>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Evaluating the Viability of LogGP for Modeling MPI Performance with Non-contiguous Datatypes on Modern Architectures</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Nicholas Bacon or Patrick Bridges</div>
               </td>
             </tr>
             <tr>
@@ -374,7 +374,7 @@ Zoom link (coming soon)</td>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Improving MPI Safety for Modern Languages</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">speaker  to be confirmed</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Jake Tronge or Howard Pritchard</div>
               </td>
             </tr>
             <tr>
