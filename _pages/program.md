@@ -314,7 +314,7 @@ Zoom link (coming soon)</td>
           <p>9:00 – 10:30</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Paper Session 3: Communication evaluation, modeling and optimization - chaired by TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Paper Session 3: Communication evaluation, modeling and optimization - chaired by Hui Zhou</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
