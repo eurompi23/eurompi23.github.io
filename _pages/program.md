@@ -352,7 +352,7 @@ Zoom link (coming soon)</td>
           <p>11:00 – 12:30</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Invited talk : MPI vs the commercialization of HPC - chaired by TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Invited talk : MPI vs the commercialization of HPC - chaired by Howard Pritchard</div>
           <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Joseph Schuchart</div>
         </td>
       </tr>
@@ -374,7 +374,7 @@ Zoom link (coming soon)</td>
             <tr>
               <td>
                 <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Improving MPI Safety for Modern Languages</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Jake Tronge or Howard Pritchard</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Jake Tronge</div>
               </td>
             </tr>
             <tr>
