@@ -400,7 +400,7 @@ Zoom link (coming soon)</td>
         <td style="padding-left:4px;padding-right:4px;width:720px">
           <div style="font-weight:bold;font-size:1.10em">Panel : MPI in the next three decades</div>
           <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Host: Julien Jaeger</div>
-          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Panelists: Claudia Blaas-Schenner, Matthew Dosanjh, Joseph Schuchart, Martin Schulz</div>
+          <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Panelists: Claudia Blaas-Schenner, Matthew Dosanjh, Joseph Schuchart, Martin Schulz, and Joachim Jenke</div>
         </td>
       </tr>
       <tr style="height:15px">
