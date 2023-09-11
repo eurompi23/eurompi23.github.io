@@ -411,7 +411,7 @@ Zoom link (coming soon)</td>
       </tr>
       <tr style="height:40px">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>9:00 – 12:25</p>
+          <p>9:00 – 12:15</p>
         </td>
 	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
         <div style="font-weight:bold;font-size:1.10em">MPI Tutorial: Hands-On Using <a href="https://parcoach.github.io" >PARCOACH</a></div>
@@ -420,7 +420,7 @@ Zoom link (coming soon)</td>
       </tr>
       <tr style="height:40px;background-color: #f2f2f2">
         <td style="border-right:1px solid gray;text-align:center;width:120px">
-          <p>12:25 – 12:30</p>
+          <p>12:15 – 12:30</p>
         </td>
 	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
         <div style="font-weight:bold;font-size:1.10em">Closing</div>
