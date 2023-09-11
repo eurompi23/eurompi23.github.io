@@ -231,7 +231,7 @@ Zoom link (coming soon)</td>
           <p>14:00 – 15:00</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Poster lightning talks - chaired by TBD</div>
+          <div style="font-weight:bold;font-size:1.10em">Poster lightning talks</div>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
