@@ -423,7 +423,7 @@ Zoom link (coming soon)</td>
           <p>12:15 – 12:30</p>
         </td>
 	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-        <div style="font-weight:bold;font-size:1.10em">Closing</div>
+        <div style="font-weight:bold;font-size:1.10em">Closing & EuroMPI'24 announcement [<a href="./assets/slides/Pawsey_EuroMPI-IWOMP_2023_short.pdf" target="_blank">slides</a>]</div>
 	<div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Hugo Taboada</div>
         </td>
       </tr>
