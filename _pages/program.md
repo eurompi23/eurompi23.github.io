@@ -206,13 +206,13 @@ Zoom link (coming soon)</td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Frustrated With MPI+Threads? Try MPIxThreads!</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Frustrated With MPI+Threads? Try MPIxThreads! [<a href="./assets/slides/Zhou_eurompi23.pdf" target="_blank">Slide</a>]</div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Hui Zhou</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">View-aware Message Passing Through the Integration of Kokkos and ExaMPI</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">View-aware Message Passing Through the Integration of Kokkos and ExaMPI [<a href="./assets/slides/Suggs_eurompi23.pdf" target="_blank">Slide</a>]</div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Evan Suggs</div>
               </td>
           </tr></tbody></table>
@@ -250,7 +250,7 @@ Zoom link (coming soon)</td>
                 <div style="font-weight:bold;font-size:1.20em;padding-left:4px">Session : Efficient implementation of MPI</div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">An efficient implementation of blocking and persistent MPI collective communication, Andreas Jocksch and Jean-Guillaume Piccinali  [<a href="./assets/papers/EuroMPI23_paper_30.pdf" target="_blank">Paper</a>] </div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Partitioned Communication and Message Aggregation, W. Pepper Marts [<a href="./assets/papers/EuroMPI23_paper_34.pdf" target="_blank">Paper</a>] </div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">MPI Advance : Open-Source Message Passing Optimizations, Amanda Bienz, Derek Schafer and Anthony Skjellum [<a href="./assets/papers/EuroMPI23_paper_33.pdf" target="_blank">Paper</a>] </div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">MPI Advance : Open-Source Message Passing Optimizations, Amanda Bienz, Derek Schafer and Anthony Skjellum [<a href="./assets/papers/EuroMPI23_paper_33.pdf" target="_blank">Paper</a>] [<a href="./assets/slides/Skjellum_eurompi23.pdf" target="_blank">Slide</a>] </div>
               </td>
             </tr>
             <tr>
@@ -285,13 +285,13 @@ Zoom link (coming soon)</td>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;font-size:1.20em;padding-left:4px">Investigating the Usage of MPI at Argument-Granularity in HPC Codes</div>
+                <div style="font-weight:bold;font-size:1.20em;padding-left:4px">Investigating the Usage of MPI at Argument-Granularity in HPC Codes [<a href="./assets/slides/Jammer_eurompi23.pdf" target="_blank">Slide</a>]</div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Tim Jammer</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;font-size:1.20em;padding-left:4px;font-size:1.10em">Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes</div>
+                <div style="font-weight:bold;font-size:1.20em;padding-left:4px;font-size:1.20em">Library Development with MPI: Attributes, Request Objects, Group Communicator Creation, Local Reductions, and Datatypes [<a href="./assets/slides/Traff_eurompi23.pdf" target="_blank">Slide</a>]</div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Jesper Larsson Träff</div>
               </td>
             </tr>
@@ -373,13 +373,13 @@ Zoom link (coming soon)</td>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Improving MPI Safety for Modern Languages</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Improving MPI Safety for Modern Languages [<a href="./assets/slides/Tronge_eurompi23.pdf" target="_blank">Slide</a>]</div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Jake Tronge</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Generating and Scaling a Multi-Language Test-Suite for MPI</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Generating and Scaling a Multi-Language Test-Suite for MPI [<a href="./assets/slides/Adam_eurompi23.pdf" target="_blank">Slide</a>]</div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Julien Adam</div>
               </td>
             </tr></tbody></table>
@@ -423,7 +423,7 @@ Zoom link (coming soon)</td>
           <p>12:15 – 12:30</p>
         </td>
 	<td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-        <div style="font-weight:bold;font-size:1.10em">Closing & EuroMPI'24 announcement [<a href="./assets/slides/Pawsey_EuroMPI-IWOMP_2023_short.pdf" target="_blank">slides</a>]</div>
+        <div style="font-weight:bold;font-size:1.10em">Closing & EuroMPI'24 announcement [<a href="./assets/slides/Pawsey_EuroMPI-IWOMP_2023_short.pdf" target="_blank">slide</a>]</div>
 	<div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Hugo Taboada</div>
         </td>
       </tr>
