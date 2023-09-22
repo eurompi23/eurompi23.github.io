@@ -200,7 +200,7 @@ Zoom link (coming soon)</td>
 <!--
                 <div style="font-weight:bold;padding-left:4px">Using Advanced Vector Extensions AVX-512 for MPI Reduction [<a href="./assets/papers/Zhong-EuroMPI2020.pptx" target="_blank">Slide</a>] [<a href="https://youtu.be/Z2vGmgymJ34" target="_blank">Presentation</a>]</div>
 -->
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Best paper presentation: MPI Application Binary Interface Standardization </div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Best paper presentation: MPI Application Binary Interface Standardization [<a href="./assets/slides/Hammond_eurompi23.pdf" target="_blank">Slide</a>]</div>
                 <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Jeff Hammond</div>
               </td>
             </tr>
@@ -318,14 +318,14 @@ Zoom link (coming soon)</td>
           <table style="border:0px; width:100%"><tbody>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Synchronizing MPI Processes in Space and Time</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Joseph Schuchart or Sascha Hunold</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Synchronizing MPI Processes in Space and Time [<a href="./assets/slides/MPIX_Harmonize.pdf" target="_blank">Slide</a>]</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Joseph Schuchart</div>
               </td>
             </tr>
             <tr>
               <td>
-                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Evaluating the Viability of LogGP for Modeling MPI Performance with Non-contiguous Datatypes on Modern Architectures</div>
-                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Nicholas Bacon or Patrick Bridges</div>
+                <div style="font-weight:bold;padding-left:4px;font-size:1.20em">Evaluating the Viability of LogGP for Modeling MPI Performance with Non-contiguous Datatypes on Modern Architectures [<a href="./assets/slides/Bacon_eurompi23.pdf" target="_blank">Slide</a>]</div>
+                <div style="padding-top:4px;padding-left:4px;font-size:1.20em;font-style:italic">Nicholas Bacon</div>
               </td>
             </tr>
             <tr>
@@ -352,7 +352,7 @@ Zoom link (coming soon)</td>
           <p>11:00 – 12:30</p>
         </td>
         <td style="padding-left:4px;padding-right:4px;width:720px" colspan="4">
-          <div style="font-weight:bold;font-size:1.10em">Invited talk : MPI vs the commercialization of HPC - chaired by Howard Pritchard</div>
+          <div style="font-weight:bold;font-size:1.10em">Invited talk : MPI vs the commercialization of HPC [<a href="./assets/slides/MPIvsCommercialization.pdf" target="_blank">Slide</a>] - chaired by Howard Pritchard</div>
           <div style="padding-top:4px;padding-left:4px;font-size:1em;font-style:italic">Joseph Schuchart</div>
         </td>
       </tr>
